@@ -57,7 +57,7 @@ I'm an IT undergraduate who likes understanding how software and networks work u
 - 🌐 **Networking & recon:** NetScope
 - 🖼️ **Steganography:** PixelVault
 - 🔑 **Password security:** PassGuard
-- 🧪 Practicing on: `<!-- e.g. TryHackMe / Hack The Box -->`
+- 🧪 **Practicing on:** TryHackMe
 
 ---
 
